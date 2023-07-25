@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import style from "./css/style.css"
+import "./css/style.css"
 
 const GetApi = ()=> {
     const url = "https://rickandmortyapi.com/api/character/1,2,3,4,5,6";
